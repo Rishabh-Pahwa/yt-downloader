@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(ls /home/rishabh/Documents/personal-git/yt-downloader/*.config*)",
+      "Bash(timeout 4 node index.js)",
+      "Bash(npm install:*)",
+      "Bash(timeout 5 node index.js)",
+      "Bash(yt-dlp --version)",
+      "Bash(python3 -m yt_dlp --version)",
+      "Bash(pip3 install:*)",
+      "Bash(pip install:*)",
+      "Bash(yt-dlp --simulate --no-warnings \"https://www.youtube.com/watch?v=jNQXAC9IVRw\")"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+# Replace with your actual ads.txt info from your ad provider (e.g. Google AdSense)
+# Example: google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
